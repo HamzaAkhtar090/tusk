@@ -8,6 +8,8 @@ HTML
 CSS
 Javascript
 bootstrap
+jquery
+react.js
 .
 .
 .
